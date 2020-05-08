@@ -1,2 +1,4 @@
 # DockerLecture
-Docker 강좌
+![ex_screenshot](./dockerlecture.png)  
+
+Docker 강좌 시리즈  
