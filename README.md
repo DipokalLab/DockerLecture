@@ -13,6 +13,5 @@ https://code-machina.github.io/2019/09/02/Docker-Security-Hardening.html
 ``` curl -fsSL https://get.docker.com/ | sudo sh ```
 
 # 99. 관련 참고 사이트
-http://labs.brandi.co.kr/2018/05/25/kangww.html  
-https://code-machina.github.io/2019/09/02/Docker-Security-Hardening.html  
+https://devent.tistory.com/48
 https://seokjun.kim/docker-nginx-node/  
